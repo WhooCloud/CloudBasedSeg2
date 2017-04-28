@@ -1,0 +1,2 @@
+/home/ubuntu/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/core/slam/build/src/CMakeFiles/robotJson_server.dir
+/home/ubuntu/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/core/slam/build/src/CMakeFiles/slamInterface.dir
