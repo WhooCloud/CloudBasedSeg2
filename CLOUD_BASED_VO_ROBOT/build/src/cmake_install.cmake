@@ -1,4 +1,4 @@
-# Install script for directory: /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src
+# Install script for directory: /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -50,10 +50,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = /usr/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT
+CMAKE_SOURCE_DIR = /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build
+CMAKE_BINARY_DIR = /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build
 
 #=============================================================================
 # Directory level rules for directory src
@@ -63,6 +63,7 @@ src/all: src/CMakeFiles/basic_client.dir/all
 src/all: src/CMakeFiles/robotJson.dir/all
 src/all: src/CMakeFiles/robotWS.dir/all
 src/all: src/CMakeFiles/robot_.dir/all
+src/all: src/CMakeFiles/test.dir/all
 .PHONY : src/all
 
 # Convenience name for "clean" pass in the directory.
@@ -70,6 +71,7 @@ src/clean: src/CMakeFiles/basic_client.dir/clean
 src/clean: src/CMakeFiles/robotJson.dir/clean
 src/clean: src/CMakeFiles/robotWS.dir/clean
 src/clean: src/CMakeFiles/robot_.dir/clean
+src/clean: src/CMakeFiles/test.dir/clean
 .PHONY : src/clean
 
 # Convenience name for "preinstall" pass in the directory.
@@ -81,11 +83,11 @@ src/preinstall:
 
 # All Build rule for target.
 src/CMakeFiles/basic_client.dir/all: src/CMakeFiles/robotJson.dir/all
-src/CMakeFiles/basic_client.dir/all: src/CMakeFiles/robotWS.dir/all
 src/CMakeFiles/basic_client.dir/all: src/CMakeFiles/robot_.dir/all
+src/CMakeFiles/basic_client.dir/all: src/CMakeFiles/robotWS.dir/all
 	$(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/depend
 	$(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  1
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  1
 	@echo "Built target basic_client"
 .PHONY : src/CMakeFiles/basic_client.dir/all
 
@@ -95,9 +97,9 @@ all: src/CMakeFiles/basic_client.dir/all
 
 # Build rule for subdir invocation for target.
 src/CMakeFiles/basic_client.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/basic_client.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
 .PHONY : src/CMakeFiles/basic_client.dir/rule
 
 # Convenience name for target.
@@ -120,7 +122,7 @@ clean: src/CMakeFiles/basic_client.dir/clean
 src/CMakeFiles/robotJson.dir/all:
 	$(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/depend
 	$(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  2
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  2
 	@echo "Built target robotJson"
 .PHONY : src/CMakeFiles/robotJson.dir/all
 
@@ -130,9 +132,9 @@ all: src/CMakeFiles/robotJson.dir/all
 
 # Build rule for subdir invocation for target.
 src/CMakeFiles/robotJson.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robotJson.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
 .PHONY : src/CMakeFiles/robotJson.dir/rule
 
 # Convenience name for target.
@@ -155,7 +157,7 @@ clean: src/CMakeFiles/robotJson.dir/clean
 src/CMakeFiles/robotWS.dir/all:
 	$(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/depend
 	$(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  3
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  3
 	@echo "Built target robotWS"
 .PHONY : src/CMakeFiles/robotWS.dir/all
 
@@ -165,9 +167,9 @@ all: src/CMakeFiles/robotWS.dir/all
 
 # Build rule for subdir invocation for target.
 src/CMakeFiles/robotWS.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robotWS.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
 .PHONY : src/CMakeFiles/robotWS.dir/rule
 
 # Convenience name for target.
@@ -190,7 +192,7 @@ clean: src/CMakeFiles/robotWS.dir/clean
 src/CMakeFiles/robot_.dir/all:
 	$(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/depend
 	$(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  4
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  4
 	@echo "Built target robot_"
 .PHONY : src/CMakeFiles/robot_.dir/all
 
@@ -200,9 +202,9 @@ all: src/CMakeFiles/robot_.dir/all
 
 # Build rule for subdir invocation for target.
 src/CMakeFiles/robot_.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robot_.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
 .PHONY : src/CMakeFiles/robot_.dir/rule
 
 # Convenience name for target.
@@ -216,6 +218,41 @@ src/CMakeFiles/robot_.dir/clean:
 
 # clean rule for target.
 clean: src/CMakeFiles/robot_.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target src/CMakeFiles/test.dir
+
+# All Build rule for target.
+src/CMakeFiles/test.dir/all:
+	$(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/depend
+	$(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles  5
+	@echo "Built target test"
+.PHONY : src/CMakeFiles/test.dir/all
+
+# Include target in all.
+all: src/CMakeFiles/test.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+src/CMakeFiles/test.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/test.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
+.PHONY : src/CMakeFiles/test.dir/rule
+
+# Convenience name for target.
+test: src/CMakeFiles/test.dir/rule
+.PHONY : test
+
+# clean rule for target.
+src/CMakeFiles/test.dir/clean:
+	$(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/clean
+.PHONY : src/CMakeFiles/test.dir/clean
+
+# clean rule for target.
+clean: src/CMakeFiles/test.dir/clean
 .PHONY : clean
 
 #=============================================================================

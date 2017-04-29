@@ -32,9 +32,9 @@ rapidjson/stringbuffer.h
 vector
 -
 
-/home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src/robotWS.cpp
+/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/robotWS.cpp
 robotBase.h
-/home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src/robotBase.h
+/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/robotBase.h
 
 /usr/local/include/cpprest/astreambuf.h
 ios

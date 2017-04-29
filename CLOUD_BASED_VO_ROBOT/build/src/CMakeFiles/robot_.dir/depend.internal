@@ -4,7 +4,7 @@
 src/CMakeFiles/robot_.dir/robot_.cpp.o
  ../include/robotBase.h
  ../include/slamBase.h
- /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src/robot_.cpp
+ /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/robot_.cpp
  /usr/include/eigen3/Eigen/Cholesky
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/Eigen2Support

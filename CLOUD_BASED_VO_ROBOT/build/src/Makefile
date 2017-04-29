@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = /usr/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT
+CMAKE_SOURCE_DIR = /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build
+CMAKE_BINARY_DIR = /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -72,14 +72,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/src/CMakeFiles/progress.marks
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/src/CMakeFiles/progress.marks
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
 .PHONY : clean
 
 # The main clean target
@@ -88,22 +88,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/CMakeFiles/basic_client.dir/rule:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/basic_client.dir/rule
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/basic_client.dir/rule
 .PHONY : src/CMakeFiles/basic_client.dir/rule
 
 # Convenience name for target.
@@ -112,12 +112,12 @@ basic_client: src/CMakeFiles/basic_client.dir/rule
 
 # fast build rule for target.
 basic_client/fast:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/build
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/build
 .PHONY : basic_client/fast
 
 # Convenience name for target.
 src/CMakeFiles/robotJson.dir/rule:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robotJson.dir/rule
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robotJson.dir/rule
 .PHONY : src/CMakeFiles/robotJson.dir/rule
 
 # Convenience name for target.
@@ -126,12 +126,12 @@ robotJson: src/CMakeFiles/robotJson.dir/rule
 
 # fast build rule for target.
 robotJson/fast:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/build
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/build
 .PHONY : robotJson/fast
 
 # Convenience name for target.
 src/CMakeFiles/robotWS.dir/rule:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robotWS.dir/rule
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robotWS.dir/rule
 .PHONY : src/CMakeFiles/robotWS.dir/rule
 
 # Convenience name for target.
@@ -140,12 +140,12 @@ robotWS: src/CMakeFiles/robotWS.dir/rule
 
 # fast build rule for target.
 robotWS/fast:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/build
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/build
 .PHONY : robotWS/fast
 
 # Convenience name for target.
 src/CMakeFiles/robot_.dir/rule:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robot_.dir/rule
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/robot_.dir/rule
 .PHONY : src/CMakeFiles/robot_.dir/rule
 
 # Convenience name for target.
@@ -154,15 +154,29 @@ robot_: src/CMakeFiles/robot_.dir/rule
 
 # fast build rule for target.
 robot_/fast:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/build
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/build
 .PHONY : robot_/fast
+
+# Convenience name for target.
+src/CMakeFiles/test.dir/rule:
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/test.dir/rule
+.PHONY : src/CMakeFiles/test.dir/rule
+
+# Convenience name for target.
+test: src/CMakeFiles/test.dir/rule
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/build
+.PHONY : test/fast
 
 basic_client.o: basic_client.cpp.o
 .PHONY : basic_client.o
 
 # target to build an object file
 basic_client.cpp.o:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/basic_client.cpp.o
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/basic_client.cpp.o
 .PHONY : basic_client.cpp.o
 
 basic_client.i: basic_client.cpp.i
@@ -170,7 +184,7 @@ basic_client.i: basic_client.cpp.i
 
 # target to preprocess a source file
 basic_client.cpp.i:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/basic_client.cpp.i
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/basic_client.cpp.i
 .PHONY : basic_client.cpp.i
 
 basic_client.s: basic_client.cpp.s
@@ -178,7 +192,7 @@ basic_client.s: basic_client.cpp.s
 
 # target to generate assembly for a file
 basic_client.cpp.s:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/basic_client.cpp.s
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/basic_client.dir/build.make src/CMakeFiles/basic_client.dir/basic_client.cpp.s
 .PHONY : basic_client.cpp.s
 
 robotJson.o: robotJson.cpp.o
@@ -186,7 +200,7 @@ robotJson.o: robotJson.cpp.o
 
 # target to build an object file
 robotJson.cpp.o:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/robotJson.cpp.o
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/robotJson.cpp.o
 .PHONY : robotJson.cpp.o
 
 robotJson.i: robotJson.cpp.i
@@ -194,7 +208,7 @@ robotJson.i: robotJson.cpp.i
 
 # target to preprocess a source file
 robotJson.cpp.i:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/robotJson.cpp.i
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/robotJson.cpp.i
 .PHONY : robotJson.cpp.i
 
 robotJson.s: robotJson.cpp.s
@@ -202,7 +216,7 @@ robotJson.s: robotJson.cpp.s
 
 # target to generate assembly for a file
 robotJson.cpp.s:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/robotJson.cpp.s
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotJson.dir/build.make src/CMakeFiles/robotJson.dir/robotJson.cpp.s
 .PHONY : robotJson.cpp.s
 
 robotWS.o: robotWS.cpp.o
@@ -210,7 +224,7 @@ robotWS.o: robotWS.cpp.o
 
 # target to build an object file
 robotWS.cpp.o:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/robotWS.cpp.o
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/robotWS.cpp.o
 .PHONY : robotWS.cpp.o
 
 robotWS.i: robotWS.cpp.i
@@ -218,7 +232,7 @@ robotWS.i: robotWS.cpp.i
 
 # target to preprocess a source file
 robotWS.cpp.i:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/robotWS.cpp.i
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/robotWS.cpp.i
 .PHONY : robotWS.cpp.i
 
 robotWS.s: robotWS.cpp.s
@@ -226,7 +240,7 @@ robotWS.s: robotWS.cpp.s
 
 # target to generate assembly for a file
 robotWS.cpp.s:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/robotWS.cpp.s
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robotWS.dir/build.make src/CMakeFiles/robotWS.dir/robotWS.cpp.s
 .PHONY : robotWS.cpp.s
 
 robot_.o: robot_.cpp.o
@@ -234,7 +248,7 @@ robot_.o: robot_.cpp.o
 
 # target to build an object file
 robot_.cpp.o:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/robot_.cpp.o
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/robot_.cpp.o
 .PHONY : robot_.cpp.o
 
 robot_.i: robot_.cpp.i
@@ -242,7 +256,7 @@ robot_.i: robot_.cpp.i
 
 # target to preprocess a source file
 robot_.cpp.i:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/robot_.cpp.i
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/robot_.cpp.i
 .PHONY : robot_.cpp.i
 
 robot_.s: robot_.cpp.s
@@ -250,8 +264,32 @@ robot_.s: robot_.cpp.s
 
 # target to generate assembly for a file
 robot_.cpp.s:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/robot_.cpp.s
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/robot_.cpp.s
 .PHONY : robot_.cpp.s
+
+test.o: test.cpp.o
+.PHONY : test.o
+
+# target to build an object file
+test.cpp.o:
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/test.cpp.o
+.PHONY : test.cpp.o
+
+test.i: test.cpp.i
+.PHONY : test.i
+
+# target to preprocess a source file
+test.cpp.i:
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/test.cpp.i
+.PHONY : test.cpp.i
+
+test.s: test.cpp.s
+.PHONY : test.s
+
+# target to generate assembly for a file
+test.cpp.s:
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/test.cpp.s
+.PHONY : test.cpp.s
 
 # Help Target
 help:
@@ -265,6 +303,7 @@ help:
 	@echo "... robotJson"
 	@echo "... robotWS"
 	@echo "... robot_"
+	@echo "... test"
 	@echo "... basic_client.o"
 	@echo "... basic_client.i"
 	@echo "... basic_client.s"
@@ -277,6 +316,9 @@ help:
 	@echo "... robot_.o"
 	@echo "... robot_.i"
 	@echo "... robot_.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
 .PHONY : help
 
 
@@ -288,6 +330,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

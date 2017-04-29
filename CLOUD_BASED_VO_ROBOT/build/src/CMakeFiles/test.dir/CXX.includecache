@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/test.cpp
+stdio.h
+-
+curl/curl.h
+-
+string
+-
+

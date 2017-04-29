@@ -1,10 +1,12 @@
 #WS
-ws_url=ws://54.183.116.148/seg
-upload_http_url=http://54.183.116.148/seg_upload
-download_http_url=http://54.183.116.148/seg_download
+ws_url=ws://54.153.98.140/seg
+upload_http_url=http://54.153.98.140/seg_upload
+download_http_url=http://54.153.98.140/seg_download
 images_path=/home/yun/dataset/dataset0422/img/
 results_path=./result/
 robot_id=0002
+start_index=500
+end_index=550
 #Packet
 mainloop_message={"type" : "mainloop", "pts_obj" : "155,255,252;", "pts_img" : "155,157;"}
 close_message={"type" : "close"}

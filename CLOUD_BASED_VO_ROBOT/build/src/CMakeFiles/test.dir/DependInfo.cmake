@@ -4,15 +4,12 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/basic_client.cpp" "/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/src/CMakeFiles/basic_client.dir/basic_client.cpp.o"
+  "/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/test.cpp" "/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/src/CMakeFiles/test.dir/test.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Targets to which this target links.
 SET(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/src/CMakeFiles/robotJson.dir/DependInfo.cmake"
-  "/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/src/CMakeFiles/robotWS.dir/DependInfo.cmake"
-  "/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/src/CMakeFiles/robot_.dir/DependInfo.cmake"
   )
 
 # The include file search paths:

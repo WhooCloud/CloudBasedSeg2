@@ -4,7 +4,7 @@
 src/CMakeFiles/basic_client.dir/basic_client.cpp.o
  ../include/robotBase.h
  ../include/slamBase.h
- /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src/basic_client.cpp
+ /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/basic_client.cpp
  /usr/include/eigen3/Eigen/Cholesky
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/Eigen2Support

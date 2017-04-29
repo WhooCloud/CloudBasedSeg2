@@ -42,10 +42,10 @@ EQUALS = =
 CMAKE_EDIT_COMMAND = /usr/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT
+CMAKE_SOURCE_DIR = /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build
+CMAKE_BINARY_DIR = /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -72,9 +72,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -153,6 +153,19 @@ robot_/fast:
 	$(MAKE) -f src/CMakeFiles/robot_.dir/build.make src/CMakeFiles/robot_.dir/build
 .PHONY : robot_/fast
 
+#=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) -f src/CMakeFiles/test.dir/build.make src/CMakeFiles/test.dir/build
+.PHONY : test/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +178,7 @@ help:
 	@echo "... robotJson"
 	@echo "... robotWS"
 	@echo "... robot_"
+	@echo "... test"
 .PHONY : help
 
 

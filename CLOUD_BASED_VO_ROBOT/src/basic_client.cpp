@@ -4,7 +4,8 @@ void uploadFileHTTP(const char* file_path, const char* url);
 void uploadIDFileHTTP(const char* file_path, const char* url, const char* id);
 string CompressString(string in_str);
 string DecompressString(string in_str);
-
+void downloadFileHTTP(const char* url,const char* outfilename);
+double getCurrentTime();
 int main(int argc, char** argv)
 {
     //Read Parameters
@@ -15,6 +16,8 @@ int main(int argc, char** argv)
     string images_path = PR.getData("images_path");
     string results_path = PR.getData("results_path");
     string robot_id = PR.getData("robot_id");
+    int start_index = atoi(PR.getData("start_index").c_str());
+    int end_index = atoi(PR.getData("end_index").c_str());
     //Connect to the cloud (WebSocket)
     RobotClient Client;
     Client.setURL(ws_url);
@@ -36,8 +39,7 @@ int main(int argc, char** argv)
     DDataReceive = DecompressString(DataReceive);
     cout<<"main: "<<"DStrDataReceive :"<<DDataReceive<<endl;
 
-    int index;
-    for(index = 1; index < 10; index ++)
+    for(int index = start_index; index < end_index; index ++)
     {
         //Upload image
         stringstream ss;
@@ -52,7 +54,9 @@ int main(int argc, char** argv)
             cout<<"Warning: Image "<<ImagePath<<" does not exist.";
             continue;
         }
+        double time1 = getCurrentTime();
         uploadIDFileHTTP(ImagePath.c_str(), upload_http_url.c_str(), robot_id.c_str());
+        cout<<YELLOW ">>>Uploading Costs: "<<(getCurrentTime() - time1)<<" s" RESET<<endl;
         //Send Command Message
         DataSend = PR.getData("command_message");
         RobotJson CommandMessageJson;
@@ -63,7 +67,9 @@ int main(int argc, char** argv)
         Client.setDataSend(CDataSend);
         Client.sendBinaryData();
         //Receive information
+        time1 = getCurrentTime();
         Client.receiveBinaryData();
+        cout<<YELLOW ">>>Inference Costs: "<<(getCurrentTime() - time1)<<" s" RESET<<endl;
         DataReceive = Client.getDataReceive();
         DDataReceive = DecompressString(DataReceive);
         cout<<"main: "<<"DStrDataReceive :"<<DDataReceive<<endl;
@@ -75,13 +81,18 @@ int main(int argc, char** argv)
             //if OK, download result from the cloud
             string ResultPath = results_path+ ImageName;
             string DownloadURL = download_http_url + "/" + robot_id + "/" + "inference.jpg";
-            string CMD = string("wget ") +  DownloadURL + string(" -O ") + ResultPath;
-            cout<<CMD<<endl;
-            int err = system(CMD.c_str());
+            // string CMD = string("wget ") +  DownloadURL + string(" -O ") + ResultPath;
+            // cout<<CMD<<endl;
+            // int err = system(CMD.c_str());
+            double time2 = getCurrentTime();
+            downloadFileHTTP(DownloadURL.c_str(),ResultPath.c_str());
+            cout<<YELLOW ">>>Downloading Costs: "<<(getCurrentTime() - time2)<<" s" RESET<<endl;
             cv::Mat src2 = cv::imread(ResultPath);
-            cv::imshow("src", src);
-            cv::imshow("src2", src2);
-            cvWaitKey(10);
+            cv::imshow("img", src);
+            cv::imshow("rst", src2);
+            cv::waitKey(0);
+            cv::destroyWindow("img");
+            cv::destroyWindow("rst");
         }
         cout<<ImageName<<" Done."<<endl;
     }

@@ -1,0 +1,1 @@
+g++   -std=c++11 -O3 -O3 -DNDEBUG    CMakeFiles/test.dir/test.cpp.o  -o ../../bin/test  -L/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/lib -rdynamic -lcurl -Wl,-rpath,/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/lib 

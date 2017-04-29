@@ -52,11 +52,11 @@ Eigen/Core
 Eigen/Geometry
 -
 
-/home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src/basic_client.cpp
+/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/basic_client.cpp
 slamBase.h
-/home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src/slamBase.h
+/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/slamBase.h
 robotBase.h
-/home/yun/git_repo/CloudBasedSeg/CLOUD_BASED_VO_ROBOT/src/robotBase.h
+/home/yun/git_repo/CloudBasedSeg2/CLOUD_BASED_VO_ROBOT/src/robotBase.h
 
 /usr/include/eigen3/Eigen/Cholesky
 Core
