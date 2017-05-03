@@ -90,7 +90,7 @@ int main(int argc, char** argv)
             cv::Mat src2 = cv::imread(ResultPath);
             cv::imshow("img", src);
             cv::imshow("rst", src2);
-            cv::waitKey(0);
+            cv::waitKey(20);
             cv::destroyWindow("img");
             cv::destroyWindow("rst");
         }
