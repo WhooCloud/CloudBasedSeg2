@@ -1,0 +1,16 @@
+#WS
+ws_url=ws://10.100.36.198/seg
+upload_http_url=http://10.100.36.198/seg_upload
+download_http_url=http://10.100.36.198/seg_download
+images_path=/home/yun/dataset/dataset0422/img/
+results_path=./result/
+robot_id=0000
+start_index=1
+end_index=1000
+#Packet
+mainloop_message={"type" : "mainloop", "pts_obj" : "155,255,252;", "pts_img" : "155,157;"}
+close_message={"type" : "close"}
+
+initial_message={"robot_id" : "0000", "type" : "initial"}
+
+command_message={"robot_id" : "0000", "type" : "command", "upload" : "ok", "filename" : " "}

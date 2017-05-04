@@ -1,0 +1,14 @@
+#WS
+ws_url=ws://localhost/train
+upload_http_url=http://localhost/train_upload
+dataset_path=./dataset/
+
+robot_id=0005
+iter=1000
+#Packet
+mainloop_message={"type" : "mainloop", "pts_obj" : "155,255,252;", "pts_img" : "155,157;"}
+close_message={"type" : "close"}
+
+initial_message={"robot_id" : "0000", "type" : "initial"}
+
+command_message={"robot_id" : "0000", "type" : "command", "upload" : "ok", "iter" : 1000}

@@ -1,10 +1,10 @@
 #WS
-ws_url=ws://54.183.173.243/seg
-upload_http_url=http://54.183.173.243/seg_upload
-download_http_url=http://54.183.173.243/seg_download
+ws_url=ws://10.100.36.198/seg
+upload_http_url=http://10.100.36.198/seg_upload
+download_http_url=http://10.100.36.198/seg_download
 images_path=/home/yun/dataset/dataset0422/img/
 results_path=./result/
-robot_id=0002
+robot_id=0000
 start_index=1
 end_index=1000
 #Packet

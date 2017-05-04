@@ -38,6 +38,15 @@ TARGET_LINK_LIBRARIES( basic_client
 	robot_
 	${OpenCV_LIBS}
 	)
+
+ADD_EXECUTABLE( train train.cpp )
+TARGET_LINK_LIBRARIES( train 
+	robotJson
+	robotWS
+	robot_
+	${OpenCV_LIBS}
+	)
+
 ADD_EXECUTABLE(test test.cpp)
 TARGET_LINK_LIBRARIES(test curl)
 

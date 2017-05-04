@@ -1,0 +1,1103 @@
+main: DStrDataReceive :{"type":"result","message":"OK"}
+Content-Dispositionform-data; name="0002"; filename="1_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="1_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.14337 s[0m
+[33m>>>Inference Costs: 4.05658 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 4.13972 s[0m
+1_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="2_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="2_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.81293 s[0m
+[33m>>>Inference Costs: 4.21342 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.39982 s[0m
+2_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="3_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="3_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.84363 s[0m
+[33m>>>Inference Costs: 10.9901 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 3.4157 s[0m
+3_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="4_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="4_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.38274 s[0m
+[33m>>>Inference Costs: 3.83498 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.976931 s[0m
+4_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="5_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="5_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.58594 s[0m
+[33m>>>Inference Costs: 3.84959 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.08348 s[0m
+5_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="6_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="6_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.35653 s[0m
+[33m>>>Inference Costs: 3.88851 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.13668 s[0m
+6_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="7_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="7_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.30348 s[0m
+[33m>>>Inference Costs: 3.90747 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.10294 s[0m
+7_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="8_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="8_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.08297 s[0m
+[33m>>>Inference Costs: 3.87761 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.31815 s[0m
+8_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="9_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="9_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.54835 s[0m
+[33m>>>Inference Costs: 3.82812 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.57388 s[0m
+9_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="10_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="10_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 11.4715 s[0m
+[33m>>>Inference Costs: 3.89632 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.742209 s[0m
+10_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="11_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="11_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.70653 s[0m
+[33m>>>Inference Costs: 4.65492 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.65797 s[0m
+11_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="12_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="12_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.69915 s[0m
+[33m>>>Inference Costs: 3.8762 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.984756 s[0m
+12_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="13_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="13_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.1786 s[0m
+[33m>>>Inference Costs: 3.77631 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.00252 s[0m
+13_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="14_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="14_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.80101 s[0m
+[33m>>>Inference Costs: 3.81419 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.20691 s[0m
+14_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="15_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="15_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.15726 s[0m
+[33m>>>Inference Costs: 4.13402 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 3.99197 s[0m
+15_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="16_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="16_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.97812 s[0m
+[33m>>>Inference Costs: 3.81998 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.31728 s[0m
+16_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="17_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="17_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.65772 s[0m
+[33m>>>Inference Costs: 3.83792 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.98701 s[0m
+17_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="18_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="18_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.83974 s[0m
+[33m>>>Inference Costs: 3.8518 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.26942 s[0m
+18_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="19_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="19_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 13.8956 s[0m
+[33m>>>Inference Costs: 3.81997 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.501 s[0m
+19_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="20_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="20_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.21404 s[0m
+[33m>>>Inference Costs: 3.84413 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.95795 s[0m
+20_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="21_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="21_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.09858 s[0m
+[33m>>>Inference Costs: 3.82296 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.64708 s[0m
+21_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="22_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="22_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.67269 s[0m
+[33m>>>Inference Costs: 3.88118 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.561998 s[0m
+22_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="23_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="23_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.16827 s[0m
+[33m>>>Inference Costs: 4.15844 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.80094 s[0m
+23_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="24_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="24_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.59953 s[0m
+[33m>>>Inference Costs: 3.80348 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.21122 s[0m
+24_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="25_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="25_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.65096 s[0m
+[33m>>>Inference Costs: 3.87028 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.47744 s[0m
+25_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="26_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="26_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.57412 s[0m
+[33m>>>Inference Costs: 5.32336 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 6.23014 s[0m
+26_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="27_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="27_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.43482 s[0m
+[33m>>>Inference Costs: 4.14563 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.67479 s[0m
+27_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="28_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="28_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.97768 s[0m
+[33m>>>Inference Costs: 3.92046 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.74154 s[0m
+28_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="29_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="29_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.85077 s[0m
+[33m>>>Inference Costs: 3.82816 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.979058 s[0m
+29_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="30_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="30_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 6.50818 s[0m
+[33m>>>Inference Costs: 3.84401 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.06497 s[0m
+30_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="31_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="31_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.3032 s[0m
+[33m>>>Inference Costs: 3.90349 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.14808 s[0m
+31_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="32_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="32_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.64545 s[0m
+[33m>>>Inference Costs: 3.96493 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.943145 s[0m
+32_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="33_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="33_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.57364 s[0m
+[33m>>>Inference Costs: 3.93636 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.02693 s[0m
+33_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="34_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="34_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.27369 s[0m
+[33m>>>Inference Costs: 4.14902 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.30662 s[0m
+34_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="35_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="35_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.90276 s[0m
+[33m>>>Inference Costs: 3.84827 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.60933 s[0m
+35_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="36_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="36_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.51478 s[0m
+[33m>>>Inference Costs: 3.8373 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.52019 s[0m
+36_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="37_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="37_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.79701 s[0m
+[33m>>>Inference Costs: 3.84061 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.64169 s[0m
+37_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="38_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="38_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.00722 s[0m
+[33m>>>Inference Costs: 3.90413 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 5.03378 s[0m
+38_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="39_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="39_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.35451 s[0m
+[33m>>>Inference Costs: 3.80916 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.619955 s[0m
+39_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="40_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="40_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.26495 s[0m
+[33m>>>Inference Costs: 3.80036 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.97394 s[0m
+40_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="41_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="41_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.10483 s[0m
+[33m>>>Inference Costs: 3.84343 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.52032 s[0m
+41_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="42_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="42_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 23.5677 s[0m
+[33m>>>Inference Costs: 3.91571 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.653865 s[0m
+42_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="43_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="43_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.53419 s[0m
+[33m>>>Inference Costs: 3.91655 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.23499 s[0m
+43_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="44_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="44_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.84965 s[0m
+[33m>>>Inference Costs: 4.67301 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.41213 s[0m
+44_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="45_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="45_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 6.08885 s[0m
+[33m>>>Inference Costs: 4.02159 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.977587 s[0m
+45_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="46_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="46_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.84407 s[0m
+[33m>>>Inference Costs: 4.60172 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 4.95722 s[0m
+46_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="47_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="47_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.10013 s[0m
+[33m>>>Inference Costs: 3.83056 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 4.66673 s[0m
+47_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="48_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="48_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.51173 s[0m
+[33m>>>Inference Costs: 4.06609 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.10184 s[0m
+48_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="49_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="49_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.22349 s[0m
+[33m>>>Inference Costs: 4.15955 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.10646 s[0m
+49_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="50_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="50_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.34257 s[0m
+[33m>>>Inference Costs: 3.88744 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.97126 s[0m
+50_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="51_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="51_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.3066 s[0m
+[33m>>>Inference Costs: 6.04743 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.27344 s[0m
+51_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="52_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="52_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.37281 s[0m
+[33m>>>Inference Costs: 3.82015 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.69105 s[0m
+52_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="53_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="53_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.63877 s[0m
+[33m>>>Inference Costs: 4.05934 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.961148 s[0m
+53_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="54_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="54_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.66223 s[0m
+[33m>>>Inference Costs: 3.88698 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.77789 s[0m
+54_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="55_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="55_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.25975 s[0m
+[33m>>>Inference Costs: 3.82881 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.56455 s[0m
+55_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="56_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="56_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 12.2458 s[0m
+[33m>>>Inference Costs: 4.03036 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.30815 s[0m
+56_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="57_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="57_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 6.42378 s[0m
+[33m>>>Inference Costs: 3.87456 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.72686 s[0m
+57_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="58_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="58_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.86347 s[0m
+[33m>>>Inference Costs: 3.84988 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.852851 s[0m
+58_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="59_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="59_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.71748 s[0m
+[33m>>>Inference Costs: 3.88786 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.783475 s[0m
+59_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="60_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="60_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.20378 s[0m
+[33m>>>Inference Costs: 3.85194 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.10674 s[0m
+60_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="61_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="61_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.04885 s[0m
+[33m>>>Inference Costs: 3.84277 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 26.8848 s[0m
+61_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="62_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="62_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.11501 s[0m
+[33m>>>Inference Costs: 3.88038 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.09905 s[0m
+62_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="63_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="63_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.88837 s[0m
+[33m>>>Inference Costs: 3.83685 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.34802 s[0m
+63_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="64_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="64_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.52588 s[0m
+[33m>>>Inference Costs: 4.49555 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.934333 s[0m
+64_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="65_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="65_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.24284 s[0m
+[33m>>>Inference Costs: 3.88436 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.60558 s[0m
+65_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="66_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="66_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.36559 s[0m
+[33m>>>Inference Costs: 3.8383 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.630711 s[0m
+66_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="67_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="67_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.7887 s[0m
+[33m>>>Inference Costs: 3.87247 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.7064 s[0m
+67_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="68_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="68_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.13078 s[0m
+[33m>>>Inference Costs: 4.21529 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.52046 s[0m
+68_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="69_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="69_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.17057 s[0m
+[33m>>>Inference Costs: 3.94021 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 15.5847 s[0m
+69_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="70_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="70_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.22963 s[0m
+[33m>>>Inference Costs: 3.78712 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.01649 s[0m
+70_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="71_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="71_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.06035 s[0m
+[33m>>>Inference Costs: 4.58356 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 6.28439 s[0m
+71_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="72_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="72_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.40662 s[0m
+[33m>>>Inference Costs: 3.82419 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.650154 s[0m
+72_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="73_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="73_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.30844 s[0m
+[33m>>>Inference Costs: 3.87846 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.655568 s[0m
+73_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="74_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="74_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.48071 s[0m
+[33m>>>Inference Costs: 4.55406 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 15.8501 s[0m
+74_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="75_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="75_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.39515 s[0m
+[33m>>>Inference Costs: 3.84918 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.941656 s[0m
+75_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="76_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="76_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.08865 s[0m
+[33m>>>Inference Costs: 4.02576 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.981726 s[0m
+76_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="77_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="77_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.46138 s[0m
+[33m>>>Inference Costs: 3.81313 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.32697 s[0m
+77_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="78_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="78_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.04334 s[0m
+[33m>>>Inference Costs: 3.87016 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 4.30031 s[0m
+78_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="79_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="79_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.10593 s[0m
+[33m>>>Inference Costs: 3.8502 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.09708 s[0m
+79_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="80_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="80_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.80453 s[0m
+[33m>>>Inference Costs: 8.95314 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.817619 s[0m
+80_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="81_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="81_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.22301 s[0m
+[33m>>>Inference Costs: 4.17655 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.646024 s[0m
+81_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="82_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="82_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.65677 s[0m
+[33m>>>Inference Costs: 3.87113 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.4582 s[0m
+82_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="83_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="83_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 15.9712 s[0m
+[33m>>>Inference Costs: 4.05125 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.14902 s[0m
+83_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="84_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="84_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.42825 s[0m
+[33m>>>Inference Costs: 3.86131 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.648286 s[0m
+84_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="85_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="85_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.85612 s[0m
+[33m>>>Inference Costs: 3.82707 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.7324 s[0m
+85_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="86_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="86_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.39886 s[0m
+[33m>>>Inference Costs: 5.41689 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.63265 s[0m
+86_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="87_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="87_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.75978 s[0m
+[33m>>>Inference Costs: 3.81449 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.72143 s[0m
+87_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="88_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="88_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.28329 s[0m
+[33m>>>Inference Costs: 3.93545 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 4.13841 s[0m
+88_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="89_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="89_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.88934 s[0m
+[33m>>>Inference Costs: 3.87815 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.13268 s[0m
+89_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="90_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="90_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.87141 s[0m
+[33m>>>Inference Costs: 4.10211 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.37917 s[0m
+90_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="91_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="91_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.55411 s[0m
+[33m>>>Inference Costs: 3.82397 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.79257 s[0m
+91_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="92_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="92_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 6.13106 s[0m
+[33m>>>Inference Costs: 3.86512 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.30129 s[0m
+92_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="93_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="93_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.61111 s[0m
+[33m>>>Inference Costs: 4.40281 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 3.59146 s[0m
+93_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="94_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="94_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 15.1077 s[0m
+[33m>>>Inference Costs: 4.1183 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.62176 s[0m
+94_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="95_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="95_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.16551 s[0m
+[33m>>>Inference Costs: 3.85565 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.44654 s[0m
+95_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="96_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="96_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.95695 s[0m
+[33m>>>Inference Costs: 3.90435 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.11882 s[0m
+96_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="97_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="97_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 19.5059 s[0m
+[33m>>>Inference Costs: 3.87473 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.03339 s[0m
+97_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="98_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="98_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.96981 s[0m
+[33m>>>Inference Costs: 3.84255 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.13205 s[0m
+98_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="99_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="99_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.00023 s[0m
+[33m>>>Inference Costs: 3.94032 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.3226 s[0m
+99_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="100_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="100_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 15.4187 s[0m
+[33m>>>Inference Costs: 3.96612 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.01444 s[0m
+100_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="101_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="101_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.96432 s[0m
+[33m>>>Inference Costs: 3.87287 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.14581 s[0m
+101_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="102_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="102_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.66068 s[0m
+[33m>>>Inference Costs: 3.91885 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.752287 s[0m
+102_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="103_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="103_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.01205 s[0m
+[33m>>>Inference Costs: 5.10265 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.97867 s[0m
+103_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="104_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="104_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.56826 s[0m
+[33m>>>Inference Costs: 3.8642 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.05928 s[0m
+104_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="105_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="105_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.64189 s[0m
+[33m>>>Inference Costs: 3.8878 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.2641 s[0m
+105_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="106_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="106_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.99416 s[0m
+[33m>>>Inference Costs: 3.88214 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.835006 s[0m
+106_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="107_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="107_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.02683 s[0m
+[33m>>>Inference Costs: 3.7929 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.63455 s[0m
+107_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="108_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="108_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.70413 s[0m
+[33m>>>Inference Costs: 4.20041 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.678292 s[0m
+108_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="109_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="109_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.00043 s[0m
+[33m>>>Inference Costs: 3.92647 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.87959 s[0m
+109_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="110_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="110_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.42721 s[0m
+[33m>>>Inference Costs: 4.23313 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.33004 s[0m
+110_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="111_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="111_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.86576 s[0m
+[33m>>>Inference Costs: 3.83206 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.90349 s[0m
+111_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="112_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="112_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.10682 s[0m
+[33m>>>Inference Costs: 3.93632 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.918139 s[0m
+112_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="113_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="113_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.37641 s[0m
+[33m>>>Inference Costs: 3.80275 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.12647 s[0m
+113_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="114_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="114_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.38758 s[0m
+[33m>>>Inference Costs: 3.84156 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.66214 s[0m
+114_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="115_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="115_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 9.12417 s[0m
+[33m>>>Inference Costs: 4.21921 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 8.44654 s[0m
+115_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="116_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="116_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.42336 s[0m
+[33m>>>Inference Costs: 3.92124 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.07662 s[0m
+116_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="117_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="117_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.71417 s[0m
+[33m>>>Inference Costs: 3.87492 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 4.4631 s[0m
+117_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="118_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="118_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.81811 s[0m
+[33m>>>Inference Costs: 5.56076 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 7.99647 s[0m
+118_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="119_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="119_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.34983 s[0m
+[33m>>>Inference Costs: 3.80314 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.984649 s[0m
+119_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="120_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="120_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.644 s[0m
+[33m>>>Inference Costs: 3.86271 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.09098 s[0m
+120_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="121_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="121_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.96379 s[0m
+[33m>>>Inference Costs: 3.88076 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.22381 s[0m
+121_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="122_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="122_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.85328 s[0m
+[33m>>>Inference Costs: 3.87338 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.9481 s[0m
+122_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="123_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="123_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.49353 s[0m
+[33m>>>Inference Costs: 3.87794 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.29135 s[0m
+123_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="124_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="124_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.6142 s[0m
+[33m>>>Inference Costs: 3.84427 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 4.3857 s[0m
+124_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="125_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="125_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.29247 s[0m
+[33m>>>Inference Costs: 3.86433 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.00121 s[0m
+125_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="126_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="126_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.63101 s[0m
+[33m>>>Inference Costs: 3.83235 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.71607 s[0m
+126_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="127_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="127_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.63714 s[0m
+[33m>>>Inference Costs: 4.90274 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.82112 s[0m
+127_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="128_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="128_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.60696 s[0m
+[33m>>>Inference Costs: 3.88945 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.99378 s[0m
+128_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="129_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="129_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2 s[0m
+[33m>>>Inference Costs: 5.01963 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.657425 s[0m
+129_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="130_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="130_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 4.87461 s[0m
+[33m>>>Inference Costs: 5.73602 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 5.17361 s[0m
+130_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="131_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="131_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 6.90119 s[0m
+[33m>>>Inference Costs: 4.19922 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.560753 s[0m
+131_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="132_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="132_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.4259 s[0m
+[33m>>>Inference Costs: 3.82247 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.94168 s[0m
+132_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="133_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="133_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.40544 s[0m
+[33m>>>Inference Costs: 3.87933 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.04005 s[0m
+133_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="134_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="134_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.89496 s[0m
+[33m>>>Inference Costs: 3.80573 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.934709 s[0m
+134_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="135_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="135_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.45372 s[0m
+[33m>>>Inference Costs: 4.69181 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 5.37425 s[0m
+135_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="136_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="136_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.32663 s[0m
+[33m>>>Inference Costs: 12.3071 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 5.3592 s[0m
+136_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="137_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="137_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 5.45608 s[0m
+[33m>>>Inference Costs: 3.80411 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.979189 s[0m
+137_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="138_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="138_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.26477 s[0m
+[33m>>>Inference Costs: 5.72126 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.0197 s[0m
+138_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="139_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="139_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.27678 s[0m
+[33m>>>Inference Costs: 3.88984 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.691616 s[0m
+139_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="140_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="140_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.5921 s[0m
+[33m>>>Inference Costs: 3.98156 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.55338 s[0m
+140_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="141_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="141_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.00675 s[0m
+[33m>>>Inference Costs: 3.85823 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.01899 s[0m
+141_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="142_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="142_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.44481 s[0m
+[33m>>>Inference Costs: 3.88796 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.694126 s[0m
+142_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="143_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="143_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.99593 s[0m
+[33m>>>Inference Costs: 3.83924 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.653787 s[0m
+143_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="144_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="144_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.69814 s[0m
+[33m>>>Inference Costs: 4.03618 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.0676 s[0m
+144_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="145_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="145_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.59621 s[0m
+[33m>>>Inference Costs: 3.84361 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 3.77061 s[0m
+145_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="146_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="146_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 3.14711 s[0m
+[33m>>>Inference Costs: 4.10134 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.4244 s[0m
+146_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="147_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="147_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 10.799 s[0m
+[33m>>>Inference Costs: 4.22551 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.54807 s[0m
+147_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="148_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="148_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.86329 s[0m
+[33m>>>Inference Costs: 4.07454 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 14.3874 s[0m
+148_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="149_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="149_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 22.5612 s[0m
+[33m>>>Inference Costs: 5.46752 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.961013 s[0m
+149_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="150_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="150_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.54556 s[0m
+[33m>>>Inference Costs: 3.84447 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.37021 s[0m
+150_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="151_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="151_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.53651 s[0m
+[33m>>>Inference Costs: 10.1836 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 2.45449 s[0m
+151_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="152_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="152_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 1.43966 s[0m
+[33m>>>Inference Costs: 4.19217 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.08203 s[0m
+152_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="153_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="153_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 7.24537 s[0m
+[33m>>>Inference Costs: 4.64163 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.4729 s[0m
+153_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="154_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="154_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 8.68276 s[0m
+[33m>>>Inference Costs: 3.83794 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.568479 s[0m
+154_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="155_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="155_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.59634 s[0m
+[33m>>>Inference Costs: 3.82824 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.856086 s[0m
+155_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="156_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="156_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 10.8987 s[0m
+[33m>>>Inference Costs: 4.07623 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 1.83508 s[0m
+156_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="157_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="157_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 15.0613 s[0m
+[33m>>>Inference Costs: 3.81492 s[0m
+main: DStrDataReceive :{"type":"result","message":"OK"}
+[33m>>>Downloading Costs: 0.51922 s[0m
+157_carpet.jpg Done.
+Content-Dispositionform-data; name="0002"; filename="158_carpet.jpg"Content-Disposition: form-data; name="0002"; filename="158_carpet.jpg"
+Content-Typeimage/jpegContent-Type: image/jpeg
+[33m>>>Uploading Costs: 2.80846 s[0m

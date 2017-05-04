@@ -7,6 +7,9 @@
 #include <zlib.h>
 #include <curl/curl.h>
 
+#include <fstream>
+#include <vector>
+
 #define _CHUNK ROBOTJSON_MAXSTRINGLENGTH
 #define _COMPRESSLEVEL 9
 
@@ -14,6 +17,24 @@ int CompressString(const char* in_str,size_t in_len, std::string& out_str, int l
 int DecompressString(const char* in_str,size_t in_len, std::string& out_str);
 void uploadFileHTTP(const char* file_path, const char* url);
 
+vector<string> readFileinLine(const char* filepath)
+{
+    ifstream fin(filepath);
+    vector<string> v_s;
+    if(!fin)
+    {
+        cerr<<filepath<<" does not exist!"<<endl;
+    }
+    
+    while(!fin.eof())
+    {
+        string str;
+        getline(fin,str);
+        if(str.length() > 0)
+            v_s.push_back(str);
+    } 
+    return v_s;
+}
 size_t write_data(void *ptr, size_t size, size_t nmemb, FILE *stream) 
 {
     size_t written = fwrite(ptr, size, nmemb, stream);
