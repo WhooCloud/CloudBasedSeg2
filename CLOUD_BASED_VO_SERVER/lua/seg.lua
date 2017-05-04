@@ -76,7 +76,7 @@ if not wb then
 end
 
 local robot_id = nil
-local root_path = "/home/ubuntu/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/"
+local root_path = "/root/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/"
 local robot_path = nil
 local result = {type = "result", message = "OK"}
 
@@ -104,6 +104,7 @@ if json_data then
         else
           result.message = "OK"
         end
+	os.execute("sleep 2")
     end
   else
     result.message = "ERROR:Message cannnot be identified."
@@ -123,7 +124,7 @@ do
       -- result.message = "OK"
       if json_data.type == "command" then
         if json_data.upload == "ok" then
-            local python_path = "/home/ubuntu/pynb/caffe-future/server_inference.py"
+            local python_path = "/root/CloudBasedSeg2/caffe-future/server_inference.py"
             local python_i = json_data.filename
             local python_o = "inference.jpg"
             local python_log_path = root_path .. "ServerData/" .. robot_id .. "/" .. "python.log"

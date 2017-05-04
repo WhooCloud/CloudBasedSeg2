@@ -1,5 +1,5 @@
-train_net: "/home/ubuntu/pynb/caffe-future/train/config/train.prototxt"
-test_net: "/home/ubuntu/pynb/caffe-future/train/config/train.prototxt"
+train_net: "/root/CloudBasedSeg2/caffe-future/train/config/train.prototxt"
+test_net: "/root/CloudBasedSeg2/caffe-future/train/config/train.prototxt"
 test_iter: 736
 # make test net, but don't invoke it from the solver itself
 test_interval: 999999999
@@ -14,6 +14,6 @@ momentum: 0.99
 iter_size: 1
 max_iter: 100000
 weight_decay: 0.0005
-snapshot: 1000
-snapshot_prefix: "/home/ubuntu/pynb/caffe-future/ilsvrc-nets/"
+snapshot: 100000
+snapshot_prefix: "/root/CloudBasedSeg2/caffe-future/train/model"
 test_initialization: false

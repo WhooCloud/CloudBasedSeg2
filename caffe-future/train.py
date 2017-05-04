@@ -1,6 +1,6 @@
 import caffe
 import sys
-sys.path.append('/home/ubuntu/pynb/caffe-future/')
+sys.path.append('/root/CloudBasedSeg2/caffe-future/')
 import surgery, score
 import numpy as np
 import os
@@ -8,8 +8,8 @@ import setproctitle
 import shutil
 
 setproctitle.setproctitle(os.path.basename(os.getcwd()))
-rootpath = '/home/ubuntu/pynb/caffe-future/train/'
-weights = rootpath +'model/_iter_100.caffemodel'
+rootpath = '/root/CloudBasedSeg2/caffe-future/train/'
+weights = rootpath +'model/fcn.caffemodel'
 weightssavepath = rootpath +'model/'
 caffe.set_device(0)
 caffe.set_mode_gpu()
