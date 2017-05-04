@@ -1,7 +1,7 @@
 local resty_md5 = require "resty.md5"
 local upload = require "resty.upload"
 local str = require "resty.string"
-local root_path = "/home/ubuntu/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/"
+local root_path = "/root/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/"
 local dst_dir = root_path .. "ServerData"
 
 

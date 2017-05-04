@@ -97,13 +97,13 @@ def imageProcess(inferfile):
     return infer
 
 
-rootpath = '/home/ubuntu/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/ServerData/' + robot_id + '/'
+rootpath = '/root/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/ServerData/' + robot_id + '/'
 deploypath = rootpath + 'deploy.prototxt'
-weightspath = rootpath + '_iter_12000.caffemodel'
+weightspath = rootpath + 'server.caffemodel'
 imagepath = rootpath + i_path
 outimagepath = rootpath + o_path
 gpu_id = -1
-gpu_pool_path = '/home/ubuntu/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/ServerData/' + './gpu_pool.txt'
+gpu_pool_path = '/root/CloudBasedSeg2/CLOUD_BASED_VO_SERVER/ServerData/' + './gpu_pool.txt'
 ##apply GPU
 while (gpu_id < 0): 
     gpu_id = apply_gpu(gpu_pool_path, robot_id)
