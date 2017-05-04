@@ -1,10 +1,10 @@
 #WS
-ws_url=ws://localhost/train
-upload_http_url=http://localhost/train_upload
+ws_url=ws://10.100.36.198/train
+upload_http_url=http://10.100.36.198/train_upload
 dataset_path=./dataset/
 
-robot_id=0005
-iter=1000
+robot_id=0001
+iter=100
 #Packet
 mainloop_message={"type" : "mainloop", "pts_obj" : "155,255,252;", "pts_img" : "155,157;"}
 close_message={"type" : "close"}

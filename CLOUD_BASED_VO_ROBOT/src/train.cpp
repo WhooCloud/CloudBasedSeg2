@@ -59,5 +59,10 @@ int main(int argc, char** argv)
     CDataSend = CompressString(DataSend);
     Client.setDataSend(CDataSend);
     Client.sendBinaryData();
+
+    Client.receiveBinaryData();
+    DataReceive = Client.getDataReceive();
+    DDataReceive = DecompressString(DataReceive);
+    cout<<"main: "<<"DStrDataReceive :"<<DDataReceive<<endl;
 	return 0;
 }
